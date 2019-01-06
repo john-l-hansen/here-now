@@ -3,14 +3,13 @@ import Helmet from "react-helmet";
 
 import Layout from '../components/layout';
 
-import pic01 from '../assets/images/pic01.jpg'
 import pic02 from '../assets/images/pic02.jpg'
 import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 
 class Homepage extends React.Component {
     render() {
-        const siteTitle = "hereNOW6";
+        const siteTitle = "hereNOW";
 
         return (
             <Layout>
@@ -35,7 +34,7 @@ class Homepage extends React.Component {
                     <div className="grid-wrapper">
                         <div className="col-12">
                             <header className="major">
-                                <h2>It's so simple</h2>
+                                <h2>It's simple</h2>
                             </header>
                             <p>Simply sign up, login and find either counselors or patients immediately.</p>
                         </div>
