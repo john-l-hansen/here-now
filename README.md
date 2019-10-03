@@ -1,10 +1,3 @@
-# gatsby-starter-photon
-Gatsby.js V2 starter based on the Photon site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
-
-## Preview
-
-https://gatsby-photon.surge.sh
-
 ## Installation
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
